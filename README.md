@@ -12,6 +12,7 @@
 
 - [About](#about);
 - [Artificial Neural Network Approach in Churn Analysis using PyTorch](#artificial-neural-network-approach-in-churn-analysis-using-pytorch);
+- [House Price Prediction](#House Price Prediction);
 
 ## About
 
@@ -20,9 +21,20 @@ Welcome to some case studies of data science projects - (Personal Projects). The
 ## Artificial Neural Network Approach in Churn Analysis using PyTorch
 
 Churn analytics is the process of measure the rate at which customers will quit the company (or producty). In this case tutorial we'll use a customer bank
-dataset for estimate the churn rate. For understand better this case study, please check the follow [link]().
+dataset for estimate the churn rate. For understand better this case study, please check the follow [link](https://github.com/neemiasbsilva/case-study-data-science/tree/main/churn_analysis).
 
 - Exploratory Data Analysis - [EDA](https://github.com/neemiasbsilva/case-study-data-science/blob/main/churn_analysis/data_analysis.ipynb);
 - [Data Visualization](https://github.com/neemiasbsilva/case-study-data-science/blob/main/churn_analysis/data_analysis.ipynb);
 - [Preprocessing](https://github.com/neemiasbsilva/case-study-data-science/blob/main/churn_analysis/preprocessing.ipynb);
 - [ANN model](https://github.com/neemiasbsilva/case-study-data-science/blob/main/churn_analysis/ann_pytorch_model.ipynb);
+
+## House Price Prediction
+
+House Price Prediction is a case study based on the "Hands-on of Machine Learning book" and has the goal for create a Machine Learning model for predicted the correct price for a particular house.. For undestand better this case study, please check the follow [link](https://github.com/neemiasbsilva/case-study-data-science/tree/main/house_price_prediction).
+
+- Exploratory Data Analysis - [EDA](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb);
+- [Preprocessing](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb);
+- [Linear Regression](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb); - [Decision Tree](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb); 
+- [Random Forest](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb); 
+- [Suport Vector Machine](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb);
+- [ANN](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb).
