@@ -24,5 +24,5 @@ dataset for estimate the churn rate. For understand better this case study, plea
 
 - Exploratory Data Analysis - [EDA](https://github.com/neemiasbsilva/case-study-data-science/blob/main/churn_analysis/data_analysis.ipynb);
 - [Data Visualization](https://github.com/neemiasbsilva/case-study-data-science/blob/main/churn_analysis/data_analysis.ipynb);
-- Preprocessing;
-- ANN model;
+- [Preprocessing](https://github.com/neemiasbsilva/case-study-data-science/blob/main/churn_analysis/preprocessing.ipynb);
+- [ANN model]();
