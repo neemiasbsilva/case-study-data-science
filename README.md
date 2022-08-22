@@ -11,7 +11,7 @@
 ## Table of Content
 
 - [About](#about);
-- [Case Study: Churn Analysis using Pytorch](#artificial-neural-network-approach-in-churn-analysis-using-pytorch);
+- [Artificial Neural Network Approach in Churn Analysis using PyTorch](#artificial-neural-network-approach-in-churn-analysis-using-pytorch);
 
 ## About
 
