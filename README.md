@@ -1,4 +1,4 @@
-# Case Study: Data Science Projects 
+# Case Studies: Data Science Projects 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
@@ -22,6 +22,7 @@ Welcome to some case studies of data science projects - (Personal Projects). The
 Churn analytics is the process of measure the rate at which customers will quit the company (or producty). In this case tutorial we'll use a customer bank
 dataset for estimate the churn rate. For understand better this case study, please check the follow [link]().
 
-- Exploratory Data Analysis - EDA;
-- Data Visualization;
+- Exploratory Data Analysis - [EDA](https://github.com/neemiasbsilva/case-study-data-science/blob/main/churn_analysis/data_analysis.ipynb);
+- [Data Visualization](https://github.com/neemiasbsilva/case-study-data-science/blob/main/churn_analysis/data_analysis.ipynb);
+- Preprocessing;
 - ANN model;
