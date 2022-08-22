@@ -12,7 +12,7 @@
 
 - [About](#about);
 - [Artificial Neural Network Approach in Churn Analysis using PyTorch](#artificial-neural-network-approach-in-churn-analysis-using-pytorch);
-- [House Price Prediction](#House Price Prediction);
+- [House Price Prediction](#house-price-prediction);
 
 ## About
 
