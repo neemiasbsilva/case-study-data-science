@@ -13,6 +13,7 @@
 - [About](#about);
 - [Artificial Neural Network Approach in Churn Analysis using PyTorch](#artificial-neural-network-approach-in-churn-analysis-using-pytorch);
 - [House Price Prediction](#house-price-prediction);
+- [Healthcare Stroke Using PySpark](#healthcare-stroke-using-pyspark).
 
 ## About
 
@@ -38,3 +39,5 @@ House Price Prediction is a case study based on the "Hands-on of Machine Learnin
 - [Random Forest](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb); 
 - [Suport Vector Machine](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb);
 - [ANN](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb).
+
+## Healthcare Stroke Using PySpark
