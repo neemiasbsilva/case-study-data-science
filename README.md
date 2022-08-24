@@ -41,3 +41,13 @@ House Price Prediction is a case study based on the "Hands-on of Machine Learnin
 - [ANN](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb).
 
 ## Healthcare Stroke Using PySpark
+
+This study case has the purpose for implementing a classification using PySpark for estimate the probability of smoke and not smoke. To understando more about the features and the case study, please check this [link](https://github.com/neemiasbsilva/case-study-data-science/tree/main/data_analysis_using_pyspark)
+
+- [PySpark Configuration](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/data_analysis.ipynb);
+- [Exploratory Data Analysis](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/data_analysis.ipynb);
+- [Data Visualization](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/data_analysis.ipynb);
+- [Data Preprocessing](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/healthcare_logistic_regression_pyspark.ipynb);
+- [Feature Engineer](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/healthcare_logistic_regression_pyspark.ipynb);
+- [Model Selection](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/healthcare_logistic_regression_pyspark.ipynb);
+- [Evaluation](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/healthcare_logistic_regression_pyspark.ipynb).
