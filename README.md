@@ -56,3 +56,7 @@ This study case has the purpose for implementing a classification using PySpark 
 
 This case study has the puporse for use Pyspark for counting and aggregating M&Ms. For check the implementation, please check this [link](https://github.com/neemiasbsilva/case-study-data-science/tree/main/counting-and-aggregating-m%26ms-pyspark).
 
+- [Build a Spark Session](https://github.com/neemiasbsilva/case-study-data-science/blob/main/counting-and-aggregating-m%26ms-pyspark/counting_aggregating_m%26ms.ipynb);
+- [Load M&M Dataset](https://github.com/neemiasbsilva/case-study-data-science/blob/main/counting-and-aggregating-m%26ms-pyspark/counting_aggregating_m%26ms.ipynb);
+- [Group Each State and Color and Ordering in Descending Order](https://github.com/neemiasbsilva/case-study-data-science/blob/main/counting-and-aggregating-m%26ms-pyspark/counting_aggregating_m%26ms.ipynb);
+- [Aggregate for a Particular State](https://github.com/neemiasbsilva/case-study-data-science/blob/main/counting-and-aggregating-m%26ms-pyspark/counting_aggregating_m%26ms.ipynb).
