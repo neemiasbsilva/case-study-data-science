@@ -51,3 +51,8 @@ This study case has the purpose for implementing a classification using PySpark 
 - [Feature Engineer](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/healthcare_logistic_regression_pyspark.ipynb);
 - [Model Selection](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/healthcare_logistic_regression_pyspark.ipynb);
 - [Evaluation](https://github.com/neemiasbsilva/case-study-data-science/blob/main/data_analysis_using_pyspark/healthcare_logistic_regression_pyspark.ipynb).
+
+## Counting and Aggregating M&Ms using PySpark
+
+This case study has the puporse for use Pyspark for counting and aggregating M&Ms. For check the implementation, please check this [link](https://github.com/neemiasbsilva/case-study-data-science/tree/main/counting-and-aggregating-m%26ms-pyspark).
+
