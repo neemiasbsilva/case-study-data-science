@@ -12,6 +12,6 @@ has three freatures. The features can be described as follow:
 - Mnm Color;
 - Count (Amount).
 
-## Reference
+## References
 
 [1] Karau, Holden, et al. Learning spark: lightning-fast big data analysis. " O'Reilly Media, Inc.", 2015.
