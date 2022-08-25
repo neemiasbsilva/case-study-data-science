@@ -1,7 +1,8 @@
 # Counting and Aggregating M&M using PySpark
 
--[About](#about);
--[References](#references).
+- [About](#about);
+- [References](#references).
+
 
 ## About
 
