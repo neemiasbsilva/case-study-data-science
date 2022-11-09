@@ -16,5 +16,6 @@ Test set has 5k samples without any specific theme.
 # Reference
 
 [1] - Go, Alec, Richa Bhayani, and Lei Huang. "Twitter sentiment classification using distant supervision." CS224N project report, Stanford 1.12 (2009): 2009.
+
 [2] - Kouloumpis, Efthymios, Theresa Wilson, and Johanna Moore. "Twitter sentiment analysis: The good the bad and the omg!." Proceedings of the 
 international AAAI conference on web and social media. Vol. 5. No. 1. 2011.
