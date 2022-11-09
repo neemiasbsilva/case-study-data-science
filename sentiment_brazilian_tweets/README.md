@@ -13,6 +13,12 @@ The idea behind this paper is to use for collect samples with positive and negat
 The dataset was organized in training and test set. Training set has 100K of samples without any specific theme. 
 Test set has 5k samples without any specific theme.
 
+# Baseline Pipeline
+
+<p align="center">
+<img src="algorithm_development.png" width="70%" height="50%"></p>
+<h6 align="center"> Baseline pipeline used for implementing the sentiment detector.</h6>
+
 # Reference
 
 [1] - Go, Alec, Richa Bhayani, and Lei Huang. "Twitter sentiment classification using distant supervision." CS224N project report, Stanford 1.12 (2009): 2009.
